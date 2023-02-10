@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+table {
+    width: 70%;
+}
+
+td, table {
+    border: 1px solid black;
+    
+}
+
+.first, .second, .hed {
+    background-color: rgb(117, 145, 237);
+    height: 50px;
+}
+
+.hed {
+    text-transform: uppercase;
+}
+
+.bigyellow, .cell {
+    background-color: rgb(229, 237, 117);
+    height: 50px;
+}
